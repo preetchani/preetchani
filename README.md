@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on multiple React based Websites
 
-- 🌱 I’m currently learning Redux & GraphQL
+- 🌱 I’m currently learning Redux & AWS
 
 - 💬 Talk to me about JavaScript, Reactjs 
 
